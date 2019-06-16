@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Android platform developer.
+Data Science and making Neural Nets uncool. 
+I did not start that fire.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Just another run of the mill programmer, but trying not to be odinary.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[me@adhityamohan.in](mailto:me@adhityamohan.in)
