@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://pedantic-poincare-6b0004.netlify.com/* http://adhityamohan.in/:splat 301!
