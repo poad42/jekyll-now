@@ -47,7 +47,6 @@ And success!
 
 ##Warnings and Mistakes I made
 ```
-conda update -c fastai fastai
-conda update -c fastai torchvision-nightly
+conda install -c fastai fastai
 ```
-Using conda to install fastai and pytorch always resulted in me getting the error "no module fastai" in the notebook when I try to import the module hence using pip to install fastai, which automatically installs pytorch and cudatoolkit.
+Using conda to install fastai and pytorch always resulted in me getting the error "no module fastai" in the notebook, when I try to import the module. Hence I used pip to install fastai, which automatically installs pytorch and cudatoolkit.

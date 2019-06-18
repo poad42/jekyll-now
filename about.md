@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Android platform developer.
+ex Android ROM developer.
 Data Science and making Neural Nets uncool. 
 I did not start that fire.
 
