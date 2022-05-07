@@ -1,3 +1,8 @@
+---
+layout: post
+title: A simple guide to install fastai on your local machine
+---
+
 # What the pandemic thought me.
 
 I sit, writing this post from my desk in my Apartment in Mainz. I possibly couldn't have believed that this would have been possible just a year ago from now. So for some context, my college in India had an exchange program which allows me to earn a German Bachelor's degree by doing the last year of my degree in Germany. But this entailed being able to pass a C1 level language exam in order to get in.  A mammoth task to do in any language, especially more difficult with German. Add a pandemic into the mix and the fact that the exams are hard to get slots for India and COVID made impossible to travel to Germany and your life gets turned upside down. 
